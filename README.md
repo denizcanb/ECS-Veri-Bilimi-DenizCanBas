@@ -5,7 +5,7 @@
 3. **Car Price Prediction:** [Google Colab](https://colab.research.google.com/drive/1MWT9il5K5eECm3vhrLMx3QzWnvV1WKPh?usp=share_link)
 4. **Pandas ile Veri Çekme:** [Google Colab](https://colab.research.google.com/drive/17iBQEPpRM4xTQPeK6_d7_xy-jlmJJjAO?usp=sharing)
 5. **Covid Dataset - Yarışan Grafikler:** [Google Colab](https://colab.research.google.com/drive/1wJ3xZQe0X2a5YVaiO_zhjWtelQ20OlwU?usp=sharing)
-6. **HF Uygulaması:** error?
+6. **HF Uygulaması:** 
 7. **Image Slider:** [Google Colab](https://colab.research.google.com/drive/1cMU3ZpHXsurMv5B-94Zp5aX3gIQsTo7Y?usp=sharing)
 8. **Image Downloader Script:** [Google Colab](https://colab.research.google.com/drive/1YL-TSZvgzV-H8uM-Pz7A8OxgP_tfFi4m?usp=sharing)
 9. **Online Gradio Form:** 10. **Gemini API Chatbot:**
