@@ -9,4 +9,4 @@
 7. **Image Slider:** [Google Colab](https://colab.research.google.com/drive/1cMU3ZpHXsurMv5B-94Zp5aX3gIQsTo7Y?usp=sharing)
 8. **Image Downloader Script:** [Google Colab](https://colab.research.google.com/drive/1YL-TSZvgzV-H8uM-Pz7A8OxgP_tfFi4m?usp=sharing)
 9. **Online Gradio Form:**
-10. 10. **Gemini API Chatbot:**
+10. **Gemini API Chatbot:**
